@@ -1,0 +1,3 @@
+MiniMusicPlayer.MiniMusicPlayer3
+MiniMusicPlayer.MiniMusicPlayer3$MyDrawPanel
+MiniMusicPlayer.JavaApplication12
